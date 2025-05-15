@@ -14,7 +14,7 @@
     "@google-translate-select/vue3": "^0.1.1",
     "vitepress": "^1.0.0-alpha.72",
     "vitepress-plugin-auto-sidebar": "^1.0.6",
-    "vue": "^3.2.47"
+    "vue": "^3.5.14"
   },
   "devDependencies": {
     "flexsearch": "^0.7.31",
